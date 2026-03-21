@@ -24,7 +24,6 @@ An in-depth Exploratory Data Analysis (EDA) of a retail superstore dataset to un
 ## 📂 Dataset
 - The dataset contains retail transaction records with columns such as: `Order Date`, `Ship Date`, `Category`, `Sub-Category`, `Customer Segment`, `Sales`, `Quantity`, `Discount`, `Profit`.  
 - **Rows:** 9,994 transactions.  
-- **Source:** *(add dataset source/link here — e.g., Kaggle / public sample superstore / internal sample data)*
 
 ---
 
